@@ -11,6 +11,7 @@
 # Build folders
 bin/
 build/
+bin/
 
 # VS code / temp files
 .vscode/
